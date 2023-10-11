@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'head_title' => 'Laravel Redirect Panel',
+    'title' => 'Redirect Panel',
+    'search' => 'Search',
+    'path_from' => 'Path From',
+    'path_to' => 'Path To',
+    'redirect_type' => 'Redirect Type',
+    'creation_date' => 'Creation Date',
+    'actions' => 'Actions',
+    'edit' => 'Edit',
+    'delete' => 'Delete',
+    'there_are_no_records_to_display' => 'There are no records to display',
+    'add_new_redirect' => 'Add New Redirect',
+    'delete_selected_rows' => 'Delete Selected Rows',
+    'edit_record' => 'Edit Record',
+    'save_changes' => 'Save Changes',
+    'cancel' => 'Cancel',
+    'add_record' => 'Add Record',
+    'select_type' => 'Select Type',
+    'confirm_delete' => 'Confirm Delete',
+    'are_you_sure_you_want_to_delete_this_record' => 'Are you sure you want to delete this record?',
+    'are_you_sure_you_want_to_delete_selected_rows' => 'Are you sure you want to delete selected rows?',
+    'structure_path_from' => 'In the "Path from" field, you can use the characters */ at the beginning of the path, /*/ in the middle of the path, and /* at the end of the path, such as:',
+
+    'fromPath_required' => 'The path from field is required.',
+    'toPath_required' => 'The path to field is required.',
+    'type_required' => 'The type field is required.',
+    'type_in' => 'The type field must be in 301, 302, 303, 307.',
+];
